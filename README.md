@@ -39,3 +39,7 @@ I'm Dylan, a Computer Science graduate from the University at Buffalo. I love co
 - Languages: Java, JavaScript, Python, OCaml, C, C++, GO SQL
 - Frameworks and Libraries: React, Spring
 - Developer Tools: Linux, Git, Docker, MySQL, MongoDB, Make, VS Code
+
+## Contact 📧
+- Email: [dylanfit9617@gmail.com](mailto:dylanfit9617@gmail.com)
+- LinkedIn: [My LinkedIn]([https://www.linkedin.com/in/dylanfit9617/](https://www.linkedin.com/in/dylan-fitch-856b35318/))
