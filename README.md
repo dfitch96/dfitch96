@@ -26,20 +26,20 @@ I'm Dylan, a Computer Science graduate from the University at Buffalo. I love co
   - [Repo](https://github.com/dfitch96/Odin_To-Do-List)
 
 ## School Projects :school:
-- Bytecode Interpreter 🖥️💻
+- __Bytecode Interpreter__ 🖥️💻
   - Developed a JVM-style bytecode interpreter for a stack-based language with constructs for arithmetic operations, variable binding, and control flow
-- Consensus Cluster 🤝⚡
+- __Consensus Cluster__ 🤝⚡
   - Implemented a simplified Raft-based consensus protocol to manage leader elections and quorum-based log commitment
-- Shovelware 🌱💼
+- __Shovelware__ 🌱💼
   - Collaborated with an Agile team to develop Shovelware, an application that connects users with local landscapers
-- Instant Messenger 💬📱
+- __Instant Messenger__ 💬📱
   - Developed a messaging application with real-time chat room functionality using WebSockets
 
 ## Skills :muscle:
-- Languages: Java, JavaScript, Python, OCaml, C, C++, GO SQL
-- Frameworks and Libraries: React, Spring
-- Developer Tools: Linux, Git, Docker, MySQL, MongoDB, Make, VS Code
+- __Languages:__ Java, JavaScript, Python, OCaml, C, C++, GO SQL
+- __Frameworks and Libraries:__ React, Spring
+- __Developer Tools:__ Linux, Git, Docker, MySQL, MongoDB, Make, VS Code
 
 ## Contact 📧
-- Email: [dylanfit9617@gmail.com](mailto:dylanfit9617@gmail.com)
-- LinkedIn: [My LinkedIn]([https://www.linkedin.com/in/dylanfit9617/](https://www.linkedin.com/in/dylan-fitch-856b35318/))
+- __Email:__ [dylanfit9617@gmail.com](mailto:dylanfit9617@gmail.com)
+- __LinkedIn:__ [My LinkedIn]([https://www.linkedin.com/in/dylanfit9617/](https://www.linkedin.com/in/dylan-fitch-856b35318/))
