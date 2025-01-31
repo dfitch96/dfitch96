@@ -39,6 +39,7 @@ I'm Dylan, a Computer Science graduate from the University at Buffalo. I love co
 ### Languages: 
 
 :coffee: Java
+
 :snake: JavaScript 
 Python :dragon:
 OCaml :scroll:
