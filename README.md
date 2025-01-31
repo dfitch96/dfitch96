@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 I'm Dylan, a Computer Science graduate from the University at Buffalo. I love coding, solving complex problems, and building cool projects. Right now, I’m working on expanding my portfolio of web apps and backend systems through the [Odin Project](https://www.theodinproject.com/) curriculum.
+
+## Recent Projects
+- Weather App
+  - [Live Preview](https://dfitch96.github.io/Weather-App/)
+  - [Repo](https://github.com/dfitch96/Weather-App)
