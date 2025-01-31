@@ -36,7 +36,7 @@ I'm Dylan, a Computer Science graduate from the University at Buffalo. I love co
   - Developed a messaging application with real-time chat room functionality using WebSockets
 
 ## Skills :muscle:
-- __Languages:__ Java, JavaScript, Python, OCaml, C, C++, GO SQL
+- __Languages:__ Java, JavaScript, Python, OCaml, C, C++, GO, SQL
 - __Frameworks and Libraries:__ React, Spring
 - __Developer Tools:__ Linux, Git, Docker, MySQL, MongoDB, Make, VS Code
 
