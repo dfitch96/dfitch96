@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Dylan, a Computer Science graduate from the University at Buffalo. I love coding, solving complex problems, and building cool projects. Right now, I’m working on expanding my portfolio of web apps and backend systems through the [Odin Project](https://www.theodinproject.com/) curriculum.
 
-## Recent Projects
+## Recent Projects :hammer:
 - Weather App :cloud: :sunny:
   - [Live Preview](https://dfitch96.github.io/Weather-App/)
   - [Repo](https://github.com/dfitch96/Weather-App)
@@ -25,11 +25,15 @@ I'm Dylan, a Computer Science graduate from the University at Buffalo. I love co
   - [Live Preview](https://dfitch96.github.io/Odin_To-Do-List/)
   - [Repo](https://github.com/dfitch96/Odin_To-Do-List)
 
-## School Projects
+## School Projects :school:
 - Bytecode Interpreter
   - Developed a JVM-style bytecode interpreter for a stack-based language with constructs for arithmetic operations, variable binding, and control flow
 - Consensus Cluster
   - Implemented a simplified Raft-based consensus protocol to manage leader elections and quorum-based log commitment
+- Shovelware
+  - Collaborated with an Agile team to develop Shovelware, an application that connects users with local landscapers
+- Instant Messenger
+  - Developed a messaging application with real-time chat room functionality using WebSockets
 
 ## Skills
 - Languages: Java, JavaScript, Python, OCaml, C, C++, GO SQL
