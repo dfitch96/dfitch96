@@ -21,3 +21,6 @@ I'm Dylan, a Computer Science graduate from the University at Buffalo. I love co
 - Weather App
   - [Live Preview](https://dfitch96.github.io/Weather-App/)
   - [Repo](https://github.com/dfitch96/Weather-App)
+- To Do List
+  -[Live Preview](https://dfitch96.github.io/Odin_To-Do-List/)
+  - [Repo](https://github.com/dfitch96/Odin_To-Do-List)
