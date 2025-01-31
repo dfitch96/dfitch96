@@ -26,9 +26,9 @@ I'm Dylan, a Computer Science graduate from the University at Buffalo. I love co
   - [Repo](https://github.com/dfitch96/Odin_To-Do-List)
 
 ## School Projects
--  Bytecode Interpreter | OCaml
+-  Bytecode Interpreter
   - Developed a JVM-style bytecode interpreter for a stack-based language with constructs for arithmetic operations, variable binding, and control flow
-- Consensus Cluster | Go
+- Consensus Cluster
   - Implemented a simplified Raft-based consensus protocol to manage leader elections and quorum-based log commitment
   
 
