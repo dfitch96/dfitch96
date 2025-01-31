@@ -38,14 +38,14 @@ I'm Dylan, a Computer Science graduate from the University at Buffalo. I love co
 ## Skills :muscle:
 ### Languages: 
 
-Java :coffee:
-JavaScript :snake:
+:coffee: Java
+:snake: JavaScript 
 Python :dragon:
 OCaml :scroll:
 C :electric_plug:
 C++ :gear:
 Go :rocket:
-SQL :database:
+SQL :floppy_disk:
 
 ### Frameworks and Libraries: 
 
