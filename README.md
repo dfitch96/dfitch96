@@ -31,7 +31,7 @@ I'm Dylan, a Computer Science graduate from the University at Buffalo. I love co
 - __Consensus Cluster__ 🤝⚡
   - Implemented a simplified Raft-based consensus protocol to manage leader elections and quorum-based log commitment
 - __Shovelware__ 🌱💼
-  - Collaborated with an Agile team to develop Shovelware, an application that connects users with local landscapers
+  - Collaborated with an Agile team to develop an application that connects users with local landscapers
 - __Instant Messenger__ 💬📱
   - Developed a messaging application with real-time chat room functionality using WebSockets
 
