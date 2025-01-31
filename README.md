@@ -41,12 +41,18 @@ I'm Dylan, a Computer Science graduate from the University at Buffalo. I love co
 :coffee: Java
 
 :snake: JavaScript 
-Python :dragon:
-OCaml :scroll:
-C :electric_plug:
-C++ :gear:
-Go :rocket:
-SQL :floppy_disk:
+
+:dragon: Python 
+
+:scroll: OCaml
+
+:electric_plug: C 
+
+:gear: C++ 
+
+:rocket: Go 
+
+:floppy_disk: SQL 
 
 ### Frameworks and Libraries: 
 
