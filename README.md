@@ -35,7 +35,7 @@ I'm Dylan, a Computer Science graduate from the University at Buffalo. I love co
 - Instant Messenger 💬📱
   - Developed a messaging application with real-time chat room functionality using WebSockets
 
-Skills :muscle:
-Languages: Java :coffee:, JavaScript :snake:, Python :dragon:, OCaml :scroll:, C :electric_plug:, C++ :gear:, Go :rocket:, SQL :database:
-Frameworks and Libraries: React :zap:, Spring :blossom:
-Developer Tools: Linux :penguin:, Git :octocat:, Docker :whale:, MySQL :floppy_disk:, MongoDB :leafy_green:, Make :hammer:, VS Code :desktop_computer:
+## Skills :muscle:
+- Languages: Java :coffee:, JavaScript :snake:, Python :dragon:, OCaml :scroll:, C :electric_plug:, C++ :gear:, Go :rocket:, SQL :database:
+- Frameworks and Libraries: React :zap:, Spring :blossom:
+- Developer Tools: Linux :penguin:, Git :octocat:, Docker :whale:, MySQL :floppy_disk:, MongoDB :leafy_green:, Make :hammer:, VS Code :desktop_computer:
