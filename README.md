@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Dylan, a Computer Science graduate from the University at Buffalo. I love coding, solving complex problems, and building cool projects. Right now, I’m working on expanding my portfolio of web apps and backend systems through the [Odin Project](https://www.theodinproject.com/) curriculum.
+I'm Dylan, a Computer Science graduate from the University at Buffalo, currently seeking opportunities in Software Engineering. I love coding, solving complex problems, and building cool projects. Right now, I’m working on expanding my portfolio with web apps and backend systems through the [Odin Project](https://www.theodinproject.com/), while also expanding my knowledge of Data Structures and Algorithms on Leetcode.
 
 ## Recent Projects :hammer:
 - __Weather App__ :sunny:
