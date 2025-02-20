@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 I'm Dylan, a Computer Science graduate from the University at Buffalo. I love coding, solving complex problems, and building cool projects. Right now, I’m working on expanding my portfolio with web apps and backend systems through [The Odin Project](https://www.theodinproject.com/), while also sharpening my skills in Data Structures and Algorithms.
 
 ## Recent Projects :hammer:
+- __Battleship__ 🚢 
+  - [Live Preview](https://dfitch96.github.io/Battleship/)
+  - [Repo](https://github.com/dfitch96/Battleship)
 - __Weather App__ :sunny:
   - [Live Preview](https://dfitch96.github.io/Weather-App/)
   - [Repo](https://github.com/dfitch96/Weather-App)
