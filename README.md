@@ -24,9 +24,6 @@ I'm Dylan, a Computer Science graduate from the University at Buffalo. Right now
 - __Weather App__ :sunny:
   - [Live Preview](https://dfitch96.github.io/Weather-App/)
   - [Repo](https://github.com/dfitch96/Weather-App)
-- __To Do List__ :clipboard:
-  - [Live Preview](https://dfitch96.github.io/Odin_To-Do-List/)
-  - [Repo](https://github.com/dfitch96/Odin_To-Do-List)
 - __Admin Dashboard (UI Only)__ 📊
   - [Live Preview](https://dfitch96.github.io/Admin-Dashboard/)
   - [Repo](https://github.com/dfitch96/Admin-Dashboard)
