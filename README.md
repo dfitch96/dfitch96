@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Dylan, a Computer Science graduate from the University at Buffalo. Right now, I’m working on expanding my portfolio with full-stack web apps through [The Odin Project](https://www.theodinproject.com/), while also sharpening my skills in Data Structures and Algorithms.
+I'm Dylan, a Computer Science graduate from the University at Buffalo. Right now, I’m working on expanding my portfolio with web apps through [The Odin Project](https://www.theodinproject.com/), while also sharpening my skills in Data Structures and Algorithms.
 
 ## Recent Projects :hammer:
 - __Battleship__ 🚢 
