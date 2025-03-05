@@ -1,4 +1,3 @@
-## Hey! 👋
 
 <!--
 **dfitch96/dfitch96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,18 +15,6 @@ Here are some ideas to get you started:
 -->
 
 I'm Dylan, a Computer Science graduate from the University at Buffalo. Right now, I’m working on expanding my portfolio with web apps through [The Odin Project](https://www.theodinproject.com/), while also sharpening my skills in Data Structures and Algorithms.
-
-## Recent Projects :hammer:
-- __Battleship__ 🚢 
-  - [Live Preview](https://dfitch96.github.io/Battleship/)
-  - [Repo](https://github.com/dfitch96/Battleship)
-- __Weather App__ :sunny:
-  - [Live Preview](https://dfitch96.github.io/Weather-App/)
-  - [Repo](https://github.com/dfitch96/Weather-App)
-- __Admin Dashboard (UI Only)__ 📊
-  - [Live Preview](https://dfitch96.github.io/Admin-Dashboard/)
-  - [Repo](https://github.com/dfitch96/Admin-Dashboard)
-
 
 ## Skills :muscle:
 __Languages:__  
