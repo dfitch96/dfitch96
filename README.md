@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Dylan, a Computer Science graduate from the University at Buffalo. Right now, I’m working on sharpening my Data Structures and Algorithms skills with Python, and expanding my knowledge of JavaScript and Full-Stack development through [The Odin Project](https://www.theodinproject.com/)
+Hi, I'm Dylan—a Computer Science graduate from the University at Buffalo. I'm currently expanding my knowledge of JavaScript and Full-Stack development through [The Odin Project](https://www.theodinproject.com/) while sharpening my skills in Data Structures and Algorithms using Python
 
 ## Technologies & Tools I've Used
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  ![OCaml](https://img.shields.io/badge/OCaml-%23EC6813.svg?style=for-the-badge&logo=ocaml&logoColor=white)  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)   
