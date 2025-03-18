@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 Hi, I'm Dylan!
 I'm a Computer Science graduate from the University at Buffalo with a passion for full-stack development, systems programming, and game development.
-Currently, I'm diving into React & Node.js while sharpening my Data Structures & Algorithms skills in Python.
+Currently, I'm diving deep into React & Node.js while sharpening my Data Structures & Algorithms skills in Python.
 
 I enjoy tackling complex problems and building efficient, scalable applications
 
