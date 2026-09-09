@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Computer Science graduate from the University at Buffalo with a passion for software engineering, data analysis and science, web applications, cloud computing, end-to-end infrastructure, and cybersecurity. I enjoy building practical software, solving problems with Python, and exploring how applications, data, infrastructure, and security work together. Currently expanding my skills in cloud architecture, data engineering, and modern software development.
+Computer Science graduate from the University at Buffalo with a passion for software engineering, data science, web applications, cloud computing, end-to-end infrastructure, and cybersecurity. I enjoy building practical software, solving problems with Python, and exploring how applications, data, infrastructure, and security work together. Currently expanding my skills in cloud architecture, data science, and software development.
 
 ## Technologies & Tools I've Used
 
